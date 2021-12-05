@@ -1,0 +1,25 @@
+{
+  "name": "advent-kit",
+  "version": "0.0.1",
+  "description": "A framework for speed-coding Advent of Code puzzles",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasylenson/advent-kit.git"
+  },
+  "keywords": [
+    "aoc"
+  ],
+  "author": "Marko Vasylenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasylenson/advent-kit/issues"
+  },
+  "homepage": "https://github.com/vasylenson/advent-kit#readme"
+}
