@@ -23,4 +23,4 @@ That being said, most features I expect to be relatively trivial. Type soundness
 
 ## Documentation
 
- JSDoc should be
+ A JSDoc should be sufficient, in case a function is long/obscure. Do describe your approach and expected result when doing meta programming and other black magic.
